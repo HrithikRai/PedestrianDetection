@@ -1,4 +1,3 @@
-# Copyright 2017 BIG VISION LLC ALL RIGHTS RESERVED
 import os
 import cv2
 import numpy as np
